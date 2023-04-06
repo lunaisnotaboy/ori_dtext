@@ -1,0 +1,11 @@
+/.bundle
+/pkg
+/test/files/*.json.gz
+/tmp
+/various
+*.bundle
+*.exe
+*.exe.*
+*.o
+*.so
+*~
